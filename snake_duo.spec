@@ -5,7 +5,7 @@ a = Analysis(
     ['snake_duo.py'],
     pathex=[],
     binaries=[],
-    datas=[('C:\\Users\\jack_\\Those Weird Sounds That Dead Cities Maketh.mp3', '.'), ('C:\\Users\\jack_\\Midi Weird Sounds.mp3', '.')],
+    datas=[('Midi Weird Sounds.mp3', '.'), ('Those Weird Sounds That Dead Cities Maketh.mp3', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
